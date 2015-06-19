@@ -1,6 +1,6 @@
 Facebook SDK for PHP
 ====================
-
+HERE indexg.php IS FOR GOOGLE LOGIN.
 [![Latest Stable Version](http://img.shields.io/badge/Latest%20Stable-4.0.23-blue.svg)](https://packagist.org/packages/facebook/php-sdk-v4)
 
 
